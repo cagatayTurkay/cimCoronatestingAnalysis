@@ -28,7 +28,7 @@ In addition to the topics and their words, the model also provides a mapping bet
 
 Here is a *Illustration from Blei, D. 2012. “Probabilistic Topic Models.”*:
 
-![*Illustration from Blei, D. 2012. “Probabilistic Topic Models.”*](https://miro.medium.com/max/1632/1*RcyXi1lMESMq3X_RC7bL0Q.png)
+![*Illustration from Blei, D. 2012. “Probabilistic Topic Models.”*](/Users/cagatayturkay/Documents/gitRepositories/cimCoronatestingAnalysis/demo/images/1*RcyXi1lMESMq3X_RC7bL0Q.png)
 
 One important note here is that the algorithm does not associate any coherent meaning to the topics, it is the role of the interpreter to look through the words and speculate on what the theme might be about. In that sense, it is best to use *topic models as starting points for an interpretative discussions*, and treat them as *prompts to spark some initial ideas in your discourse with the data*.
 
@@ -38,7 +38,7 @@ Another vey important note is to treat the topic models always cautiously. These
 
 Here is a sample screenshot from the topic modelling of a part of the Twitter data that we use in the workshop where we select a topic (the red point on the left indicates a topic, topic-6) in the visualisation interface where the bars on the right indicate the words that are most relevant for the selected topic:
 
-![image-20200622105215769](/Users/cagatayturkay/Library/Application Support/typora-user-images/image-20200622105215769.png)
+![image-20200622105215769](/Users/cagatayturkay/Documents/gitRepositories/cimCoronatestingAnalysis/demo/images/image-20200622105215769.png)
 
 ## Analysing the Coronavirus Testing Dataset
 
